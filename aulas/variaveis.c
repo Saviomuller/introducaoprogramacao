@@ -28,13 +28,13 @@
         scanf("%f", &altura);
 
         printf("Digite o peso do paciente em Kg: ");
-        scanf("%f", peso);
+        scanf("%lf", &peso);
         
-        // Impressão dos dasdos armezenados das respectivas variávies
+        // Impressão dos dados armezenados das respectivas variávies
         
-        printf("Nome: %s %s\n",nome, sobrenome);
+        printf("Nome: %s %s \n",nome, sobrenome);
         printf("Paciente do sexo %c com %d anos de Idade\n",sexo, idade);
-        printf("Medindo %.0f cm de altura e pesando %.f Kg\n", altura, peso);
+        printf("Medindo %.0f cm de altura e pesando %.3lf Kg\n", altura, peso);
 
         /* Modificadores de Formato
             

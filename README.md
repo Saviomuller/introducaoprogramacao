@@ -1,11 +1,9 @@
 
-# Descriçaõ do Repositório
+# Aulas Introdução a Programação
 
-Uma breve descrição sobre este repositório
+Aulas Novato: Váriáveis, printf e scanf.
 
-Trabalho sobre IMC:
-Esta dentro da pasta tabalhos
+Está dentro da pasta aulas
 ## Autores
 
 - [@Saviomuller](https://www.github.com/Saviomuller)
-
