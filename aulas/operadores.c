@@ -18,6 +18,8 @@
         printf("Entre com o numero 2: \n");
         scanf("%d", &numero2);
 
+        printf("***Operadores Básicos***\n");
+
         // Operação Soma
         soma = numero1 + numero2;
         
@@ -34,5 +36,18 @@
         printf("A subtração é: %d\n", subtracao);
         printf("A multiplicação é: %d\n", multiplicacao);
         printf("A divisão é: %d\n", divisao);
- 
+
+        // Operadores Relacionais
+
+        printf("***Operadores Relacionais***\n");
+        int a = 20;
+        int b = 20;
+
+        printf("a > b: %d\n", a > b);
+        printf("a < b: %d\n", a < b);
+        printf("a == b: %d\n", a == b);
+        printf("a != b: %d\n", a != b);
+
+        return 0;
+
     }
