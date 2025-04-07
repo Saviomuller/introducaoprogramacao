@@ -5,7 +5,7 @@ int main(){
     int i, j;
     char letra;
 
-    for ( i = 1; i <=27; i++) {
+    for ( i = 1; i <=26; i++) {
 
         letra = 'A';
         
